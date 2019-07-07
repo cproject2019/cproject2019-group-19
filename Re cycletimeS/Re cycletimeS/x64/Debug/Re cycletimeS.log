@@ -1,0 +1,8 @@
+﻿  Re cycletimeS.cpp
+D:\Re cycletimeS\Re cycletimeS\Re cycletimeS.cpp(3166): warning C4244: “初始化”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Re cycletimeS\Re cycletimeS\Re cycletimeS.cpp(3171): warning C4244: “初始化”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Re cycletimeS\Re cycletimeS\Re cycletimeS.cpp(3176): warning C4551: 缺少参数列表的函数调用
+D:\Re cycletimeS\Re cycletimeS\Re cycletimeS.cpp(3182): warning C4551: 缺少参数列表的函数调用
+D:\Re cycletimeS\Re cycletimeS\Re cycletimeS.cpp(3239): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Re cycletimeS\Re cycletimeS\Re cycletimeS.cpp(3133): warning C4715: “instruction”: 不是所有的控件路径都返回值
+  Re cycletimeS.vcxproj -> D:\Re cycletimeS\x64\Debug\Re cycletimeS.exe
